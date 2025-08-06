@@ -1,5 +1,7 @@
-# vector-search-benchmark-suite
+# Vector Search Benchmarks
 
-![CI](https://github.com/TryKosm/vector-search-benchmark-suite/actions/workflows/ci.yml/badge.svg)
+Benchmarks for vector retrieval metrics and ranking.
+
+![CI](https://github.com/TryKosm/vector-search-benchmarks/actions/workflows/ci.yml/badge.svg)
 
 Python toolkit for comparing retrieval performance across vector search strategies.
